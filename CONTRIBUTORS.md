@@ -6,3 +6,4 @@ request; see README.md for instructions.
 | Name | Role | Joined |
 |------|------|--------|
 | John Meluso | Advisor | Fall 2026 |
+| Yulin Jiang | Contributor | Fall 2026 |
