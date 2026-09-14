@@ -7,3 +7,5 @@ request; see README.md for instructions.
 |------|------|--------|
 | John Meluso | Advisor | Fall 2026 |
 | Yulin Jiang | Contributor | Fall 2026 |
+| Raveena Manivannan | Contributor | Fall 2026 |
+
