@@ -12,3 +12,4 @@ request; see README.md for instructions.
 | Raveena Manivannan | Contributor | Fall 2026 |
 | Meshaal Aldawood   | Contributor | Fall 2026 |
 | Boyu Liu           | Contributor | Fall 2026 |
+| Qinyue Xie         | Contributor | Fall 2026 |
